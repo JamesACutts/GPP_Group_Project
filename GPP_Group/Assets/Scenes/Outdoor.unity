@@ -183,6 +183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -272,6 +276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -313,7 +321,7 @@ GameObject:
   - component: {fileID: 43421000}
   - component: {fileID: 43420999}
   - component: {fileID: 43420998}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -470,6 +478,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -666,6 +678,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -756,6 +772,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -844,6 +864,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -1118,6 +1142,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -1250,6 +1278,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -1339,6 +1371,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -1418,6 +1454,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1602,6 +1642,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -1727,7 +1771,7 @@ GameObject:
   - component: {fileID: 161286378}
   - component: {fileID: 161286377}
   - component: {fileID: 161286376}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1825,7 +1869,7 @@ GameObject:
   - component: {fileID: 169127616}
   - component: {fileID: 169127615}
   - component: {fileID: 169127614}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1981,6 +2025,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -2165,6 +2213,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -2266,6 +2318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -2351,6 +2407,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -2452,6 +2512,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -2749,6 +2813,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -2866,7 +2934,7 @@ GameObject:
   - component: {fileID: 211856244}
   - component: {fileID: 211856243}
   - component: {fileID: 211856242}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2963,7 +3031,7 @@ GameObject:
   - component: {fileID: 220298388}
   - component: {fileID: 220298387}
   - component: {fileID: 220298386}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3060,7 +3128,7 @@ GameObject:
   - component: {fileID: 243259564}
   - component: {fileID: 243259563}
   - component: {fileID: 243259562}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3217,6 +3285,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -3400,6 +3472,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -3668,6 +3744,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -4005,6 +4085,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -4171,6 +4255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -4269,6 +4357,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -4358,6 +4450,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -4463,6 +4559,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -4581,7 +4681,7 @@ GameObject:
   - component: {fileID: 353689851}
   - component: {fileID: 353689850}
   - component: {fileID: 353689849}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4738,6 +4838,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -4823,6 +4927,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -5011,6 +5119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -5108,6 +5220,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -5375,6 +5491,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -5561,6 +5681,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -5581,7 +5705,7 @@ GameObject:
   - component: {fileID: 416343119}
   - component: {fileID: 416343118}
   - component: {fileID: 416343117}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5823,6 +5947,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -6022,6 +6150,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -6205,6 +6337,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -6246,7 +6382,7 @@ GameObject:
   - component: {fileID: 445865117}
   - component: {fileID: 445865116}
   - component: {fileID: 445865115}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6391,6 +6527,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -6496,6 +6636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -6563,6 +6707,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -6750,6 +6898,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -6829,6 +6981,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -7052,7 +7208,7 @@ GameObject:
   - component: {fileID: 491677752}
   - component: {fileID: 491677751}
   - component: {fileID: 491677750}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7197,6 +7353,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -7297,6 +7457,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -7619,7 +7783,7 @@ GameObject:
   - component: {fileID: 523341969}
   - component: {fileID: 523341968}
   - component: {fileID: 523341967}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7859,6 +8023,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -8127,6 +8295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -8304,6 +8476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -8389,6 +8565,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -8494,6 +8674,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -8660,6 +8844,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -8893,7 +9081,7 @@ GameObject:
   - component: {fileID: 603419245}
   - component: {fileID: 603419244}
   - component: {fileID: 603419243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9039,6 +9227,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -9118,6 +9310,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -9204,6 +9400,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -9414,7 +9614,7 @@ GameObject:
   - component: {fileID: 632808989}
   - component: {fileID: 632808988}
   - component: {fileID: 632808987}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9842,6 +10042,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -10077,7 +10281,7 @@ GameObject:
   - component: {fileID: 666322779}
   - component: {fileID: 666322778}
   - component: {fileID: 666322777}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10318,6 +10522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -10403,6 +10611,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -10631,6 +10843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -10698,6 +10914,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -10881,6 +11101,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -11285,7 +11509,7 @@ GameObject:
   - component: {fileID: 744102698}
   - component: {fileID: 744102697}
   - component: {fileID: 744102696}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11480,7 +11704,7 @@ GameObject:
   - component: {fileID: 756501862}
   - component: {fileID: 756501861}
   - component: {fileID: 756501860}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11637,6 +11861,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -11734,6 +11962,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -11905,6 +12137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -12005,6 +12241,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -12256,6 +12496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -12421,6 +12665,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -12522,6 +12770,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -12620,6 +12872,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -12658,7 +12914,7 @@ GameObject:
   - component: {fileID: 847307164}
   - component: {fileID: 847307163}
   - component: {fileID: 847307162}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12871,6 +13127,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -13110,6 +13370,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -13230,7 +13494,7 @@ GameObject:
   - component: {fileID: 874927093}
   - component: {fileID: 874927092}
   - component: {fileID: 874927091}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13495,6 +13759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -13533,7 +13801,7 @@ GameObject:
   - component: {fileID: 888357455}
   - component: {fileID: 888357454}
   - component: {fileID: 888357453}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13678,6 +13946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -13766,6 +14038,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -13856,6 +14132,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -13923,6 +14203,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -14012,6 +14296,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -14495,6 +14783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -14575,6 +14867,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -14613,7 +14909,7 @@ GameObject:
   - component: {fileID: 943038027}
   - component: {fileID: 943038026}
   - component: {fileID: 943038025}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14762,6 +15058,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -14803,7 +15103,7 @@ GameObject:
   - component: {fileID: 951443977}
   - component: {fileID: 951443976}
   - component: {fileID: 951443975}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15046,6 +15346,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -15151,8 +15455,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0, y: 0.36569825, z: -0, w: 0.93073344}
-  m_LocalPosition: {x: -41, y: 17.65, z: -64.83}
+  m_LocalRotation: {x: 0.29983073, y: 0.3864072, z: -0.13443626, w: 0.8618108}
+  m_LocalPosition: {x: -38.314877, y: 11.779614, z: -58.41074}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15235,6 +15539,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -15303,6 +15611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -15344,7 +15656,7 @@ GameObject:
   - component: {fileID: 971693159}
   - component: {fileID: 971693158}
   - component: {fileID: 971693157}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15488,6 +15800,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -15687,6 +16003,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -15806,7 +16126,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1006470038}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Steps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15845,7 +16165,7 @@ GameObject:
   - component: {fileID: 1009033951}
   - component: {fileID: 1009033950}
   - component: {fileID: 1009033949}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15942,7 +16262,7 @@ GameObject:
   - component: {fileID: 1016735972}
   - component: {fileID: 1016735971}
   - component: {fileID: 1016735970}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16184,6 +16504,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -16263,6 +16587,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -16349,6 +16677,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -16712,6 +17044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -16888,6 +17224,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -17166,7 +17506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1097530214}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car Parking Lines
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17218,7 +17558,7 @@ GameObject:
   - component: {fileID: 1103076540}
   - component: {fileID: 1103076539}
   - component: {fileID: 1103076538}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17412,7 +17752,7 @@ GameObject:
   - component: {fileID: 1112084173}
   - component: {fileID: 1112084172}
   - component: {fileID: 1112084171}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17573,6 +17913,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -17593,7 +17937,7 @@ GameObject:
   - component: {fileID: 1129746401}
   - component: {fileID: 1129746400}
   - component: {fileID: 1129746399}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17847,6 +18191,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -17932,6 +18280,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -18038,6 +18390,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -18058,7 +18414,7 @@ GameObject:
   - component: {fileID: 1163930036}
   - component: {fileID: 1163930035}
   - component: {fileID: 1163930034}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18299,6 +18655,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -18522,6 +18882,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -18606,6 +18970,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -18673,6 +19041,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -18762,6 +19134,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -19025,6 +19401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19114,6 +19494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19193,6 +19577,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -19292,6 +19680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19330,7 +19722,7 @@ GameObject:
   - component: {fileID: 1311582375}
   - component: {fileID: 1311582374}
   - component: {fileID: 1311582373}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19487,6 +19879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19573,6 +19969,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19641,6 +20041,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19661,7 +20065,7 @@ GameObject:
   - component: {fileID: 1367106226}
   - component: {fileID: 1367106225}
   - component: {fileID: 1367106224}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19878,6 +20282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -19979,6 +20387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -20076,6 +20488,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -20175,6 +20591,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -20272,6 +20692,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -20481,7 +20905,7 @@ GameObject:
   - component: {fileID: 1421715084}
   - component: {fileID: 1421715083}
   - component: {fileID: 1421715082}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20578,7 +21002,7 @@ GameObject:
   - component: {fileID: 1455848993}
   - component: {fileID: 1455848992}
   - component: {fileID: 1455848991}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20792,6 +21216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -20994,7 +21422,7 @@ GameObject:
   - component: {fileID: 1486785086}
   - component: {fileID: 1486785085}
   - component: {fileID: 1486785084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21189,7 +21617,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1494235110}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Route
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21488,6 +21916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -21508,7 +21940,7 @@ GameObject:
   - component: {fileID: 1530955074}
   - component: {fileID: 1530955073}
   - component: {fileID: 1530955072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21606,7 +22038,7 @@ GameObject:
   - component: {fileID: 1531618201}
   - component: {fileID: 1531618200}
   - component: {fileID: 1531618199}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21853,6 +22285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -22018,6 +22454,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -22202,6 +22642,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -22306,6 +22750,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -22575,6 +23023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -22739,6 +23191,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -22896,6 +23352,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -22916,7 +23376,7 @@ GameObject:
   - component: {fileID: 1630922344}
   - component: {fileID: 1630922343}
   - component: {fileID: 1630922342}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23077,6 +23537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -23097,7 +23561,7 @@ GameObject:
   - component: {fileID: 1633885057}
   - component: {fileID: 1633885056}
   - component: {fileID: 1633885055}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23340,6 +23804,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -23381,7 +23849,7 @@ GameObject:
   - component: {fileID: 1647795539}
   - component: {fileID: 1647795538}
   - component: {fileID: 1647795537}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23478,7 +23946,7 @@ GameObject:
   - component: {fileID: 1649320970}
   - component: {fileID: 1649320969}
   - component: {fileID: 1649320968}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23841,7 +24309,7 @@ GameObject:
   - component: {fileID: 1690538245}
   - component: {fileID: 1690538244}
   - component: {fileID: 1690538243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24002,6 +24470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -24109,6 +24581,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -24177,6 +24653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -24197,7 +24677,7 @@ GameObject:
   - component: {fileID: 1718667497}
   - component: {fileID: 1718667496}
   - component: {fileID: 1718667495}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24355,6 +24835,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -24453,6 +24937,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -24538,6 +25026,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -24727,6 +25219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -24813,6 +25309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -24833,7 +25333,7 @@ GameObject:
   - component: {fileID: 1759824822}
   - component: {fileID: 1759824821}
   - component: {fileID: 1759824820}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25120,6 +25620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -25161,7 +25665,7 @@ GameObject:
   - component: {fileID: 1778359048}
   - component: {fileID: 1778359047}
   - component: {fileID: 1778359046}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25306,6 +25810,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -25394,6 +25902,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -25666,6 +26178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -25751,6 +26267,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -25869,7 +26389,7 @@ GameObject:
   - component: {fileID: 1828997553}
   - component: {fileID: 1828997552}
   - component: {fileID: 1828997551}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26014,6 +26534,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -26102,6 +26626,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -26619,6 +27147,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -26704,6 +27236,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -27074,6 +27610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -27163,6 +27703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -27183,7 +27727,7 @@ GameObject:
   - component: {fileID: 1949244592}
   - component: {fileID: 1949244591}
   - component: {fileID: 1949244590}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27281,7 +27825,7 @@ GameObject:
   - component: {fileID: 1964159150}
   - component: {fileID: 1964159149}
   - component: {fileID: 1964159148}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27438,6 +27982,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -27524,6 +28072,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -27565,7 +28117,7 @@ GameObject:
   - component: {fileID: 1985051260}
   - component: {fileID: 1985051259}
   - component: {fileID: 1985051258}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27725,6 +28277,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -27992,6 +28548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -28181,6 +28741,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -28260,6 +28824,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -28359,6 +28927,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -28445,6 +29017,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -28512,6 +29088,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -28581,6 +29161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -28601,7 +29185,7 @@ GameObject:
   - component: {fileID: 2071274925}
   - component: {fileID: 2071274924}
   - component: {fileID: 2071274923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28763,6 +29347,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -28830,6 +29418,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -28931,6 +29523,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -29034,6 +29630,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
@@ -29054,7 +29654,7 @@ GameObject:
   - component: {fileID: 2097367006}
   - component: {fileID: 2097367005}
   - component: {fileID: 2097367004}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29212,6 +29812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
@@ -29297,6 +29901,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -29386,6 +29994,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -29491,6 +30103,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
       propertyPath: m_Name
       value: ground (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c54c19d14d118e46ba0f183e4577649, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -29613,6 +30229,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -29775,6 +30395,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Name
       value: fence2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
