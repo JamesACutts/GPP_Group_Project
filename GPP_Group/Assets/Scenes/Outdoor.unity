@@ -1019,6 +1019,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6357620038686017573, guid: 623a6817d4d5cce409a06684d8e2cba9, type: 3}
+      propertyPath: m_TagString
+      value: Camera
+      objectReference: {fileID: 0}
     - target: {fileID: 6357620038938269880, guid: 623a6817d4d5cce409a06684d8e2cba9, type: 3}
       propertyPath: m_Actions
       value: 
@@ -15811,6 +15815,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -15884,6 +15889,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 42.901, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e219dc1e87b17b4eafb2337d81d3663, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sensitivity: 0.5
+  distance: 5
+  height: 0.75
+  minDistance: 1
+  maxDistance: 15
+  minHeight: 0.1
+  maxHeight: 6
+  smoothSpeed: 10
 --- !u!1001 &965987248
 PrefabInstance:
   m_ObjectHideFlags: 0
