@@ -7,6 +7,8 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     public static PlayerController playerCon;
+
+
     // Input system
     PlayerInput controls;
 
@@ -46,6 +48,13 @@ public class PlayerController : MonoBehaviour
     bool runPressed;
     bool jumpPressed;
 
+    // Attack
+    public bool attacking;
+    public bool canAttack = false;
+    public bool isAttacking;
+    [SerializeField]
+    private float sinceLastAttack = 0;
+    private PlayerStats stats;
 
     // Getters and Setters
     public float GetSpeed()
@@ -63,6 +72,8 @@ public class PlayerController : MonoBehaviour
         anim = GetComponentInChildren<Animator>();
         controller = GetComponent<CharacterController>();
         cam1.SetActive(true);
+        stats = GetComponent<PlayerStats>();
+
     }
     void Awake()
     {
@@ -73,6 +84,14 @@ public class PlayerController : MonoBehaviour
         controls.Gameplay.Movement.canceled += ctx => move = Vector2.zero;
         controls.Gameplay.Run.performed += ctx => runPressed = ctx.ReadValueAsButton();
         controls.Gameplay.Jump.performed += ctx => jumpPressed = ctx.ReadValueAsButton();
+
+    }
+
+    public void OnAttack()
+    {
+        // Attack
+        attacking = true;
+        anim.SetTrigger("Attack");
     }
 
     public void OnEnable()
@@ -109,7 +128,7 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-            anim.SetBool("isGrounded", false);
+            anim.SetBool("isGrounded", false); ;
             isGrounded = false;
         }
 
@@ -129,6 +148,7 @@ public class PlayerController : MonoBehaviour
             float targetAngle = Mathf.Atan2(movement.x, movement.z) * Mathf.Rad2Deg;
             float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngle, ref turnSmoothVelocity, turnSmoothTime);
             transform.rotation = Quaternion.Euler(0f, angle, 0f);
+            /*          movement = cam1.transform.forward * movement.z + cam1.transform.right * movement.x;*/
             controller.Move(movement * moveSpeed * Time.deltaTime);
         }
 
@@ -160,10 +180,18 @@ public class PlayerController : MonoBehaviour
                 // Jump
                 Jump();
             }
+            if (attacking && !runPressed && canAttack)
+            {
+                if (!isAttacking)
+                {
+                    isAttacking = true;
+                }
+            }
 
         }
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
+        attacking = false;
     }
     private void Idle()
     {
@@ -185,4 +213,29 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("isJumping", true);
         isJumping = true;
     }
+    private void OnTriggerStay(Collider other)
+    {
+        if (other.tag == "Enemy")
+        {
+            canAttack = true;
+            if (isAttacking)
+            {
+                if (Time.time >= sinceLastAttack + stats.attackSpeed)
+                {
+                    sinceLastAttack = Time.time;
+                    CharacterStats enemyStats = other.GetComponent<CharacterStats>();
+                    enemyAnim = other.GetComponent<Animator>();
+                    enemyAnim.SetTrigger("Damage");
+                    isAttacking = false;
+                    Attack(enemyStats);
+                }
+            }
+        }
+    }
+
+    private void Attack(CharacterStats statsToDamage)
+    {
+        stats.DealDamage(statsToDamage);
+    }
+
 }
