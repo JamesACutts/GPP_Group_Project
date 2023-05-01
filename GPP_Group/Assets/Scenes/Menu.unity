@@ -1469,7 +1469,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: THE GAME TITLE
+  m_text: nuclear outbreak
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6a5b09784e047884e895d2539c44c35d, type: 2}
   m_sharedMaterial: {fileID: -1742810306701669577, guid: 6a5b09784e047884e895d2539c44c35d, type: 2}
@@ -1496,7 +1496,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 166.65
+  m_fontSize: 141.15
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
