@@ -240,8 +240,6 @@ public class PlayerController : MonoBehaviour
                 {
                     sinceLastAttack = Time.time;
                     CharacterStats enemyStats = other.GetComponent<CharacterStats>();
-                    enemyAnim = other.GetComponent<Animator>();
-                    enemyAnim.SetTrigger("Damage");
                     isAttacking = false;
                     Attack(enemyStats);
                 }
