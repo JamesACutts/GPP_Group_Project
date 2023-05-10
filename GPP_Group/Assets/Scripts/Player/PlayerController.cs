@@ -231,6 +231,22 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
+        if (other.tag == "Boss")
+        {
+            canAttack = true;
+            if (isAttacking)
+            {
+                if (Time.time >= sinceLastAttack + stats.attackSpeed)
+                {
+                    sinceLastAttack = Time.time;
+                    CharacterStats enemyStats = other.GetComponent<CharacterStats>();
+                    enemyAnim = other.GetComponent<Animator>();
+                    enemyAnim.SetTrigger("Damage");
+                    isAttacking = false;
+                    Attack(enemyStats);
+                }
+            }
+        }
     }
 
     private void Attack(CharacterStats statsToDamage)
