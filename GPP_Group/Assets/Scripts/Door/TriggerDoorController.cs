@@ -5,13 +5,12 @@ using UnityEngine;
 public class TriggerDoorController : MonoBehaviour
 {
     public int GemsNeeded;
+    public CutsceneCamera camera;
 
     [SerializeField] private Animator door = null;
 
     [SerializeField]private bool OpenButton = false;
     [SerializeField]private bool CloseButton = false;
-
-    
 
     private void OnTriggerEnter(Collider other)
     {
@@ -19,7 +18,11 @@ public class TriggerDoorController : MonoBehaviour
 
         if(other.CompareTag("Player") && OpenButton && GemsNeeded <= playerInventory.NumberOfGems)
         {
+            camera.cameraChange = true;
+            camera.StartCoroutine(camera.Timer());
+        
             door.Play("DoorOpen", 0, 0.0f);
+            
         }
     }
 

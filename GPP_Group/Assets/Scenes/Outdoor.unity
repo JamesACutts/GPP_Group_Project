@@ -123,6 +123,37 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: 7b8f1d1dfc3801f4abe49f50a78f75c0, type: 2}
+--- !u!1 &1251906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1251907}
+  m_Layer: 0
+  m_Name: camNewPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1251907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1251906}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.079178, y: 7.1547847, z: -15.187483}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 922572297}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &3115704
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -185,7 +216,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -278,7 +309,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -486,7 +517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -526,7 +557,7 @@ GameObject:
   - component: {fileID: 70780145}
   - component: {fileID: 70780144}
   - component: {fileID: 70780143}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -920,7 +951,7 @@ GameObject:
   - component: {fileID: 101361266}
   - component: {fileID: 101361265}
   - component: {fileID: 101361264}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1290,7 +1321,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -1467,7 +1498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1507,7 +1538,7 @@ GameObject:
   - component: {fileID: 148611327}
   - component: {fileID: 148611326}
   - component: {fileID: 148611325}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2078,7 +2109,7 @@ GameObject:
   - component: {fileID: 171999945}
   - component: {fileID: 171999944}
   - component: {fileID: 171999943}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2330,7 +2361,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -2420,7 +2451,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -2576,7 +2607,7 @@ GameObject:
   - component: {fileID: 191235705}
   - component: {fileID: 191235704}
   - component: {fileID: 191235703}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2673,7 +2704,7 @@ GameObject:
   - component: {fileID: 197405163}
   - component: {fileID: 197405162}
   - component: {fileID: 197405161}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2862,7 +2893,7 @@ GameObject:
   - component: {fileID: 210525979}
   - component: {fileID: 210525978}
   - component: {fileID: 210525977}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3313,7 +3344,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -3353,7 +3384,7 @@ GameObject:
   - component: {fileID: 259399145}
   - component: {fileID: 259399144}
   - component: {fileID: 259399143}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3522,7 +3553,7 @@ GameObject:
   - component: {fileID: 262549290}
   - component: {fileID: 262549289}
   - component: {fileID: 262549288}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3694,6 +3725,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a8932c98e8a19f245824bf04dd641066, type: 3}
   m_PrefabInstance: {fileID: 267645535}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &271171779
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 271171781}
+  - component: {fileID: 271171780}
+  m_Layer: 0
+  m_Name: CameraManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &271171780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 271171779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 527995be08b27d2438dace849464483b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerCamera: {fileID: 963194227}
+  cutsceneCamera: {fileID: 891960157}
+--- !u!4 &271171781
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 271171779}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &286100356
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3882,7 +3959,7 @@ GameObject:
   - component: {fileID: 297952484}
   - component: {fileID: 297952483}
   - component: {fileID: 297952482}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4186,6 +4263,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -4393,7 +4474,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -4487,7 +4568,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -4622,7 +4703,7 @@ GameObject:
   - component: {fileID: 341190995}
   - component: {fileID: 341190994}
   - component: {fileID: 341190993}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4878,7 +4959,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -4968,7 +5049,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -4999,6 +5080,37 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.040060025, y: 0.005000004, z: 0.019999996}
   m_Center: {x: -0.020030012, y: 0.0024999992, z: 0.009999998}
+--- !u!1 &371439310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 371439311}
+  m_Layer: 0
+  m_Name: camLookPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &371439311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371439310}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.07917786, y: 4.1547847, z: -10.187483}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 922572297}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &375966496
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5058,6 +5170,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
       propertyPath: m_Name
       value: railing (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -5261,7 +5377,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -5531,7 +5647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -5571,7 +5687,7 @@ GameObject:
   - component: {fileID: 402652262}
   - component: {fileID: 402652261}
   - component: {fileID: 402652260}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5840,7 +5956,7 @@ GameObject:
   - component: {fileID: 417570550}
   - component: {fileID: 417570549}
   - component: {fileID: 417570548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5987,7 +6103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -6230,7 +6346,7 @@ GameObject:
   - component: {fileID: 434364990}
   - component: {fileID: 434364989}
   - component: {fileID: 434364988}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6795,7 +6911,7 @@ GameObject:
   - component: {fileID: 452196009}
   - component: {fileID: 452196008}
   - component: {fileID: 452196007}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7150,7 +7266,7 @@ GameObject:
   - component: {fileID: 484025926}
   - component: {fileID: 484025925}
   - component: {fileID: 484025924}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7502,7 +7618,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -7590,6 +7706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -7628,7 +7748,7 @@ GameObject:
   - component: {fileID: 510507764}
   - component: {fileID: 510507763}
   - component: {fileID: 510507762}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7728,7 +7848,7 @@ GameObject:
   - component: {fileID: 517795591}
   - component: {fileID: 517795590}
   - component: {fileID: 517795589}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8365,6 +8485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -8531,7 +8655,7 @@ GameObject:
   - component: {fileID: 547641033}
   - component: {fileID: 547641032}
   - component: {fileID: 547641031}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8963,6 +9087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -9063,7 +9191,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -9103,7 +9231,7 @@ GameObject:
   - component: {fileID: 578435866}
   - component: {fileID: 578435865}
   - component: {fileID: 578435864}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9200,7 +9328,7 @@ GameObject:
   - component: {fileID: 579673524}
   - component: {fileID: 579673523}
   - component: {fileID: 579673522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9592,7 +9720,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -9682,7 +9810,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -10323,7 +10451,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -10366,7 +10494,7 @@ GameObject:
   - component: {fileID: 650464730}
   - component: {fileID: 650464729}
   - component: {fileID: 650464728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10473,7 +10601,7 @@ GameObject:
   - component: {fileID: 661381779}
   - component: {fileID: 661381778}
   - component: {fileID: 661381777}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10818,7 +10946,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -10908,7 +11036,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -10948,7 +11076,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 673031522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car Park
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11215,7 +11343,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -11672,7 +11800,7 @@ GameObject:
   - component: {fileID: 741541485}
   - component: {fileID: 741541484}
   - component: {fileID: 741541483}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11769,7 +11897,7 @@ GameObject:
   - component: {fileID: 742229060}
   - component: {fileID: 742229059}
   - component: {fileID: 742229058}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11964,7 +12092,7 @@ GameObject:
   - component: {fileID: 747608331}
   - component: {fileID: 747608330}
   - component: {fileID: 747608329}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12322,7 +12450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -12496,7 +12624,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -12881,7 +13009,7 @@ GameObject:
   - component: {fileID: 817626001}
   - component: {fileID: 817626000}
   - component: {fileID: 817625999}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13597,7 +13725,7 @@ GameObject:
   - component: {fileID: 866093611}
   - component: {fileID: 866093610}
   - component: {fileID: 866093609}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13822,7 +13950,7 @@ GameObject:
   - component: {fileID: 873879386}
   - component: {fileID: 873879385}
   - component: {fileID: 873879384}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14314,6 +14442,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 888357451}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &891960154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 891960158}
+  - component: {fileID: 891960157}
+  - component: {fileID: 891960155}
+  m_Layer: 0
+  m_Name: Cutscene Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &891960155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891960154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0c5819b1dbbf348aafd0377caac36f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  camMan: {fileID: 271171780}
+  player: {fileID: 2067965556}
+  newPos: {fileID: 1251907}
+  lookPos: {fileID: 371439311}
+  speed: 0.7
+  timerGoing: 0
+  played: 0
+  cameraChange: 0
+  cameraMove: 0
+--- !u!20 &891960157
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891960154}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &891960158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891960154}
+  m_LocalRotation: {x: 0.12607859, y: 0.25660488, z: -0.03378266, w: 0.9576622}
+  m_LocalPosition: {x: 25, y: 5, z: 4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 15, y: 30, z: 0}
 --- !u!1001 &892904891
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14931,7 +15156,7 @@ GameObject:
   - component: {fileID: 921819144}
   - component: {fileID: 921819143}
   - component: {fileID: 921819142}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15016,6 +15241,39 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 921819140}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &922572296
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 922572297}
+  m_Layer: 0
+  m_Name: camPositions
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &922572297
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 922572296}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 29.920822, y: -2.1547847, z: 20.187483}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 371439311}
+  - {fileID: 1251907}
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &924776149
 GameObject:
   m_ObjectHideFlags: 0
@@ -15028,7 +15286,7 @@ GameObject:
   - component: {fileID: 924776153}
   - component: {fileID: 924776152}
   - component: {fileID: 924776151}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15172,6 +15430,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
       propertyPath: m_Name
       value: railing
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -15697,7 +15959,7 @@ GameObject:
   - component: {fileID: 954957475}
   - component: {fileID: 954957474}
   - component: {fileID: 954957473}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16134,7 +16396,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -16324,7 +16586,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -16367,7 +16629,7 @@ GameObject:
   - component: {fileID: 981545472}
   - component: {fileID: 981545471}
   - component: {fileID: 981545470}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16531,7 +16793,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -17312,7 +17574,7 @@ GameObject:
   - component: {fileID: 1053333768}
   - component: {fileID: 1053333767}
   - component: {fileID: 1053333766}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17409,7 +17671,7 @@ GameObject:
   - component: {fileID: 1064333362}
   - component: {fileID: 1064333361}
   - component: {fileID: 1064333360}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17598,7 +17860,7 @@ GameObject:
   - component: {fileID: 1069723355}
   - component: {fileID: 1069723354}
   - component: {fileID: 1069723353}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17844,6 +18106,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
       propertyPath: m_Name
       value: railing (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -18185,7 +18451,7 @@ GameObject:
   - component: {fileID: 1109860344}
   - component: {fileID: 1109860343}
   - component: {fileID: 1109860342}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18603,7 +18869,7 @@ GameObject:
   - component: {fileID: 1133322775}
   - component: {fileID: 1133322774}
   - component: {fileID: 1133322773}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18852,7 +19118,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -19318,6 +19584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -19625,7 +19895,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -19740,7 +20010,7 @@ GameObject:
   - component: {fileID: 1238368607}
   - component: {fileID: 1238368606}
   - component: {fileID: 1238368605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19837,7 +20107,7 @@ GameObject:
   - component: {fileID: 1245793148}
   - component: {fileID: 1245793147}
   - component: {fileID: 1245793146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20161,7 +20431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -20462,7 +20732,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -21131,7 +21401,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -21422,6 +21692,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
       propertyPath: m_Name
       value: railing (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -22064,7 +22338,7 @@ GameObject:
   - component: {fileID: 1477837868}
   - component: {fileID: 1477837867}
   - component: {fileID: 1477837866}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22259,7 +22533,7 @@ GameObject:
   - component: {fileID: 1489966368}
   - component: {fileID: 1489966367}
   - component: {fileID: 1489966366}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22922,6 +23196,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -23100,6 +23378,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
@@ -23240,7 +23522,7 @@ GameObject:
   - component: {fileID: 1554132446}
   - component: {fileID: 1554132445}
   - component: {fileID: 1554132444}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23606,7 +23888,7 @@ GameObject:
   - component: {fileID: 1588742842}
   - component: {fileID: 1588742841}
   - component: {fileID: 1588742840}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24482,7 +24764,7 @@ GameObject:
   - component: {fileID: 1644945511}
   - component: {fileID: 1644945510}
   - component: {fileID: 1644945509}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25035,7 +25317,7 @@ GameObject:
   - component: {fileID: 1679570407}
   - component: {fileID: 1679570406}
   - component: {fileID: 1679570405}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25774,7 +26056,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -25966,7 +26248,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -26056,6 +26338,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7feee86af2a6a4c4099197c394832ce8, type: 3}
       propertyPath: m_Name
       value: railing edge (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7feee86af2a6a4c4099197c394832ce8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -26529,6 +26815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: railing edge
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7feee86af2a6a4c4099197c394832ce8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7feee86af2a6a4c4099197c394832ce8, type: 3}
@@ -26901,7 +27191,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -26991,6 +27281,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
       propertyPath: m_Name
       value: railing (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: caf9e84a313455a4f8207c5caa05ab37, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -27333,7 +27627,7 @@ GameObject:
   - component: {fileID: 1827109409}
   - component: {fileID: 1827109408}
   - component: {fileID: 1827109407}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27577,7 +27871,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -27698,6 +27992,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GemsNeeded: 5
+  camera: {fileID: 891960155}
   door: {fileID: 328533012}
   OpenButton: 1
   CloseButton: 1
@@ -27820,7 +28115,7 @@ GameObject:
   - component: {fileID: 1861811413}
   - component: {fileID: 1861811412}
   - component: {fileID: 1861811411}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27920,7 +28215,7 @@ GameObject:
   - component: {fileID: 1870138253}
   - component: {fileID: 1870138252}
   - component: {fileID: 1870138251}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28122,7 +28417,7 @@ GameObject:
   - component: {fileID: 1882435176}
   - component: {fileID: 1882435175}
   - component: {fileID: 1882435174}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28284,7 +28579,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -28417,7 +28712,7 @@ GameObject:
   - component: {fileID: 1896604417}
   - component: {fileID: 1896604416}
   - component: {fileID: 1896604415}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28600,7 +28895,7 @@ GameObject:
   - component: {fileID: 1924881370}
   - component: {fileID: 1924881369}
   - component: {fileID: 1924881368}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Car (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28747,7 +29042,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -29446,7 +29741,7 @@ GameObject:
   - component: {fileID: 2000972242}
   - component: {fileID: 2000972241}
   - component: {fileID: 2000972240}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29543,7 +29838,7 @@ GameObject:
   - component: {fileID: 2009397090}
   - component: {fileID: 2009397089}
   - component: {fileID: 2009397088}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29694,7 +29989,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects:
@@ -29737,7 +30032,7 @@ GameObject:
   - component: {fileID: 2027001293}
   - component: {fileID: 2027001292}
   - component: {fileID: 2027001291}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30322,6 +30617,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6357620038938269885, guid: 623a6817d4d5cce409a06684d8e2cba9, type: 3}
   m_PrefabInstance: {fileID: 107497557}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2067965556 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6939357011354994772, guid: 623a6817d4d5cce409a06684d8e2cba9, type: 3}
+  m_PrefabInstance: {fileID: 107497557}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067965555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53a8eaad28b052542b20dd45959dd6b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2071274921
 GameObject:
   m_ObjectHideFlags: 0
@@ -30679,7 +30985,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -30971,7 +31277,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4af78438c739ee04d9452c8b67659b96, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
