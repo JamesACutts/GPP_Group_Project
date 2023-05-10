@@ -92,6 +92,7 @@ GameObject:
   - component: {fileID: 2067965561}
   - component: {fileID: 2067965567}
   - component: {fileID: 2067965568}
+  - component: {fileID: 5838471218176753270}
   m_Layer: 10
   m_Name: Player
   m_TagString: Player
@@ -115,7 +116,7 @@ Transform:
   - {fileID: 6357620038686017572}
   - {fileID: 971299894}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &6357620038938269887
 Rigidbody:
@@ -304,6 +305,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthBar: {fileID: 0}
+--- !u!114 &5838471218176753270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6357620038938269885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e945da9d4e402da4595097b298a5bd90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedPickUpActive: 0
+  jumpPickUpActive: 0
+  healthPickUpActive: 0
+  speedTrail: {fileID: 0}
+  jumpTrail: {fileID: 0}
 --- !u!1001 &6357620039164534017
 PrefabInstance:
   m_ObjectHideFlags: 0
