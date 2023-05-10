@@ -6,6 +6,7 @@ public class TriggerDoorController : MonoBehaviour
 {
     public int GemsNeeded;
     public CutsceneCamera camera;
+    public float id;
 
     [SerializeField] private Animator door = null;
 
@@ -18,11 +19,17 @@ public class TriggerDoorController : MonoBehaviour
 
         if(other.CompareTag("Player") && OpenButton && GemsNeeded <= playerInventory.NumberOfGems)
         {
-            camera.cameraChange = true;
-            camera.StartCoroutine(camera.Timer());
-        
-            door.Play("DoorOpen", 0, 0.0f);
-            
+            if(id == 1)
+            {
+                camera.cameraChange = true;
+                camera.StartCoroutine(camera.Timer());
+
+                door.Play("DoorOpen", 0, 0.0f);
+            }
+            else
+            {
+                door.Play("DoorOpen", 0, 0.0f);
+            }
         }
     }
 
