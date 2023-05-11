@@ -7,8 +7,7 @@ public class PickUpManager : MonoBehaviour
     public bool speedPickUpActive = false;
     public bool jumpPickUpActive = false;
     public bool healthPickUpActive = false;
-    public TrailRenderer speedTrail;
-    public TrailRenderer jumpTrail;
+
     private void OnTriggerEnter(Collider other)
     {
         
@@ -26,15 +25,15 @@ public class PickUpManager : MonoBehaviour
                     PlayerController playerController;
                     if(TryGetComponent<PlayerController>(out playerController))
                     {
-                        playerController.SetSpeed(16f);
+                        playerController.SetSpeed(12f);
                         speedPickUpActive = true;
-                        speedTrail.enabled = true;
+
                     }
                 }
                 if (pickupHit.type == "jump")
                 {
                     jumpPickUpActive = true;
-                    jumpTrail.enabled = true;
+
                 }
                 if (pickupHit.type == "coin")
                 {
@@ -62,8 +61,6 @@ public class PickUpManager : MonoBehaviour
 
         if(speedPickUpActive)
         {
-            speedPickUpActive = false;
-            speedTrail.enabled = false;
             PlayerController playerController;
             if (TryGetComponent<PlayerController>(out playerController))
             {
