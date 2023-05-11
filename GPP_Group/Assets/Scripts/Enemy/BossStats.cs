@@ -22,7 +22,7 @@ public class BossStats : CharacterStats
     }
     public override void InitVariables()
     {
-        maxHealth = 50;
+        maxHealth = 80;
         SetHealthTo(maxHealth);
         isDead = false;
 
